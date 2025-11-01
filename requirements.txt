@@ -1,0 +1,17 @@
+# Telegram bot framework
+python-telegram-bot==21.4
+
+# HTTP requests
+requests==2.32.3
+httpx==0.27.0
+
+# Core utilities
+urllib3==2.2.2
+
+# Date and time handling
+pytz==2024.1
+
+# For HTML parsing and escaping
+html5lib==1.1
+
+python-dotenv==1.0.1
